@@ -4,7 +4,7 @@ Joe Larumbe: Desarrollador Apasionado por Python y Laravel
 Acerca de mí
 👋 Hola, soy @Joelarumbe: Un entusiasta de la programación con un amor especial por la simplicidad y la eficiencia en el código.
 
-👀 Intereses: Mi corazón late más rápido por el desarrollo web y la creación de aplicaciones que impactan positivamente en la vida de las personas.
+👀 Intereses: Me gusta el desarrollo web y la creación de aplicaciones que impactan positivamente en la vida de las personas.
 
 🌱 Aprendizaje Continuo: Siempre estoy buscando formas de mejorar mis habilidades. Actualmente, estoy inmerso en la exploración y dominio de nuevas tecnologías y técnicas para estar al tanto de las últimas tendencias.
 
