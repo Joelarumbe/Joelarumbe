@@ -1,5 +1,5 @@
 Joe Larumbe: Desarrollador Apasionado por Python y Laravel
-¡Hola! Soy Joel Arumbe, un apasionado desarrollador con experiencia en el emocionante mundo de la programación. Mi enfoque principal es la creación de soluciones eficientes y elegantes utilizando tecnologías como Python y Laravel.
+¡Hola! Soy Joe Larumbe, un apasionado desarrollador con experiencia en el emocionante mundo de la programación. Mi enfoque principal es la creación de soluciones eficientes y elegantes utilizando tecnologías como Python y Laravel.
 
 Acerca de mí
 👋 Hola, soy @Joelarumbe: Un entusiasta de la programación con un amor especial por la simplicidad y la eficiencia en el código.
